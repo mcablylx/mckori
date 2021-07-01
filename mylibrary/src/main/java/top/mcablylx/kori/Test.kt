@@ -5,8 +5,8 @@ package top.mcablylx.kori
  * otherwise, I do not know who create it either
  * If anyone finds out I have bug, I can only kill him quietly
  */
-class Test {
-    fun test(){
+public class Test {
+   public fun test(){
         print("222")
     }
 }
